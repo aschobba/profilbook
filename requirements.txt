@@ -1,0 +1,12 @@
+Django==1.5.1
+django-addressbook==0.1.1
+django-extensions==1.3.3
+django-localflavor==1.0
+django-localflavor-de==1.0
+django-localflavor-us==1.1
+django-registration==1.0
+django-simple-captcha==0.4.1
+django-uni-form==0.9.0
+easy-thumbnails==1.4
+pygobject==3.10.0
+vobject==0.8.1c
